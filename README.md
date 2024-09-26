@@ -5,6 +5,7 @@ It's important for a business to know how to fly both commercial and private air
 
 
 Objective
+
 By evaluating the safety performance of different aircraft models and utilising historical data from the National Transportation Safety Board (NTSB) aviation accident database, this aviation safety study seeks to inform a company's aircraft purchase decisions. The investigation will explore critical factors influencing aircraft safety, with an emphasis on risk minimisation and operational safety enhancement for both commercial and private aviation
 
 
