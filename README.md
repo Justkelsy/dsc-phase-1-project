@@ -1,12 +1,12 @@
 AVIATION ANALYSIS
 
 Overview
-It's important for a business to know how to fly both commercial and private aircraft as it grows into the aviation sector. However, it's crucial to comprehend the safety dangers connected to various aircraft models before making any purchases. In order to help the organisation make data-driven decisions that reduce risk and improve operational safety, my job in this project is to analyse historical aviation accident data and identify the safest aircraft.
+It's important for a business to know how to fly both commercial and private aircraft as it grows into the aviation sector. However, it's crucial to comprehend the safety dangers connected to various aircraft models before making any purchases. In order to help the organization make data-driven decisions that reduce risk and improve operational safety, my job in this project is to analyze historical aviation accident data and identify the safest aircraft.
 
 
 Objective
 
-By evaluating the safety performance of different aircraft models and utilising historical data from the National Transportation Safety Board (NTSB) aviation accident database, this aviation safety study seeks to inform a company's aircraft purchase decisions. The investigation will explore critical factors influencing aircraft safety, with an emphasis on risk minimisation and operational safety enhancement for both commercial and private aviation
+By evaluating the safety performance of different aircraft models and utilizing historical data from the National Transportation Safety Board (NTSB) aviation accident database, this aviation safety study seeks to inform a company's aircraft purchase decisions. The investigation will explore critical factors influencing aircraft safety, with an emphasis on risk minimization and operational safety enhancement for both commercial and private aviation
 
 
 Business Understanding
@@ -75,7 +75,7 @@ Conclusion and Recommendations
 
 To sum up, putting safety first in aviation operations—especially for recreational and educational flights—needs a multipronged strategy that examines popular aircraft types and makes sure they are maintained properly and have cutting-edge safety features. To improve situational awareness and lessen dependence on visual signals, extensive pilot training should be implemented, particularly for aircraft such as the PA-28-181, 172N, and A36, especially when it comes to instrument flight. Furthermore, the risks associated with varying pilot experience levels and climatic conditions can be considerably reduced by choosing aircraft with a high safety record and implementing rigorous maintenance schedules. By taking these steps, we can make flying safer for pilots and passengers alike.
 
-Refrences
+References
 -For more on Tableau visualization:[https://public.tableau.com/views/Book1_17273079982300/Dashboard14?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 
